@@ -17,6 +17,10 @@ public class Zodiaco {
 		
 		System.out.println("Cual es tu nombre? ");
 		nombre= sc.next();
+		
+		System.out.println("Cual es tu apellido? ");
+		apellido= sc.next();
 	}
 
 }
+
