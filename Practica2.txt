@@ -24,6 +24,9 @@ public class Zodiaco {
 		System.out.println("Dame tu edad ");
 		Edad= sc.nextInt();
 		
+		System.out.println("Dame tu numero de control ");
+		noControl= sc.nextInt();
+		
 	}
 
 }
