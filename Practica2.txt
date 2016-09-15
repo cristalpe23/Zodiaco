@@ -20,6 +20,10 @@ public class Zodiaco {
 		
 		System.out.println("Cual es tu apellido? ");
 		apellido= sc.next();
+		
+		System.out.println("Dame tu edad ");
+		Edad= sc.nextInt();
+		
 	}
 
 }
